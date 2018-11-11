@@ -19,6 +19,7 @@
           <e p="SkyDraw.cs" t="Include" />
           <e p="Tree.cs" t="Include" />
           <e p="ViveController.cs" t="Include" />
+          <e p="Zone.cs" t="Include" />
         </e>
         <e p="Demigiant" t="Include">
           <e p="DOTween" t="Include">
@@ -32,6 +33,27 @@
               <e p="DOTweenModuleUtils.cs" t="Include" />
             </e>
             <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Fantasy Skybox FREE" t="Include">
+          <e p="demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GE_FantasySkyboxFREE_Demo.cs" t="Include" />
+              <e p="GE_FantasySkyboxFREE_UIs.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Fog and Ambient references.txt" t="Include" />
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="GE Common Assets" t="Include">
+          <e p="GE Toggle Full Screen" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GE_ToggleFullScreenUI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="GE_UIResponder.cs" t="Include" />
           </e>
         </e>
         <e p="Island" t="Include">
@@ -82,6 +104,31 @@
             <e p="Outline.cs" t="Include" />
           </e>
         </e>
+        <e p="ServerInterface.cs" t="Include" />
+        <e p="ZonesController.cs" t="Include" />
+      </e>
+      <e p="functions/node_modules" t="ExcludeRecursive">
+        <e p="@types" t="IncludeRecursive">
+          <e p="body-parser" t="IncludeRecursive" />
+          <e p="caseless" t="IncludeRecursive" />
+          <e p="connect" t="IncludeRecursive" />
+          <e p="events" t="IncludeRecursive" />
+          <e p="express" t="IncludeRecursive" />
+          <e p="express-serve-static-core" t="IncludeRecursive" />
+          <e p="form-data" t="IncludeRecursive" />
+          <e p="mime" t="IncludeRecursive" />
+          <e p="node" t="IncludeRecursive" />
+          <e p="range-parser" t="IncludeRecursive" />
+          <e p="request" t="IncludeRecursive" />
+          <e p="serve-static" t="IncludeRecursive" />
+          <e p="tough-cookie" t="IncludeRecursive" />
+        </e>
+        <e p="cors" t="IncludeRecursive" />
+        <e p="eslint" t="IncludeRecursive" />
+        <e p="eslint-plugin-promise" t="IncludeRecursive" />
+        <e p="express" t="IncludeRecursive" />
+        <e p="firebase-admin" t="IncludeRecursive" />
+        <e p="firebase-functions" t="IncludeRecursive" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
